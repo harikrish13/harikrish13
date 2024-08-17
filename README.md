@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **web design, ML**
+- 💬 Ask me about **UI/UX Design and ML**
 
 - 📫 How to reach me **hari262002@gmail.com**
 
