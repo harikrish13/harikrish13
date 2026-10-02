@@ -1,23 +1,49 @@
-<h1 align="center">Hi 👋, I'm Hari Krishna R</h1>
-<h3 align="center">A passionate frontend developer, web designer from India</h3>
+# Hi 👋, I'm Hari Krishna Rangaraj
 
+### Software Engineer | M.S. Information Technology, UNC Charlotte (Dec 2026)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrish13&label=Profile%20views&color=0e75b6&style=flat" alt="harikrish13" /> </p>
+I build software across the stack — from **backend APIs and data pipelines** to **ML/LLM-powered products** and **full-stack web apps**. My work spans retrieval-augmented generation (RAG), agentic AI, computer vision, and data-driven forecasting, with research published at an IEEE conference.
 
-- 🌱 I’m currently learning **React**
+- 🎓 M.S. IT @ UNC Charlotte, Dec 2026 (GPA 3.9) — open to full-time roles, relocation anywhere in the U.S.
+- 🔭 Currently building: a RAG-powered code assistant that answers questions about any GitHub repo
+- 💬 Ask me about: Python backends, LLM/RAG systems, ML models, data pipelines, full-stack development
+- 📫 Reach me: **harikrishnarangaraj@gmail.com**
+- 🌐 Portfolio: https://harikrishna.framer.website/
 
-- 💬 Ask me about **UI/UX Design and ML**
+### Connect with me:
 
-- 📫 How to reach me **hari262002@gmail.com**
+<a href="https://www.linkedin.com/in/hari-krishna1326/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
-- Portfolio **https://harikrishna.framer.website/**
+### 🛠️ Languages and Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hari-krishna1326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hari-krishna1326/" height="30" width="40" /></a>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harikrish13&show_icons=true&locale=en" alt="harikrish13" /></p>
+- **[Dr-Coco](https://github.com/harikrish13/Dr-Coco)** — Flask-based conversational AI grounding an LLM in child mental-health research, with constrained prompting and structured parent-facing reports
+- **[Cash Flow Landlords](https://github.com/harikrish13/cash-flow-landlords-reit-analysis)** — Real-estate forecasting across U.S. counties (Zillow + Census data); Random Forest reached R² 0.97
+- **[AI Car Parking](https://github.com/harikrish13/AI-Car-Parking)** — Computer-vision parking system built with OpenCV
+- **[Movie API](https://github.com/harikrish13/final-project-movie-api)** — REST API built with Node.js/JavaScript
+
+### 📊 GitHub Stats
+
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=harikrish13&show_icons=true&locale=en)
+
+![Profile views](https://komarev.com/ghpvc/?username=harikrish13&label=Profile%20views&color=0e75b6&style=flat)
